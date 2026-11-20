@@ -1,1 +1,1 @@
-echo "HELLO FROM GIT jenkins"
+echo "Hello from git jenkins"
