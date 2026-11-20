@@ -1,2 +1,2 @@
-#!bin/sh
-["$(sh app.sh)" = "HELLO FROM GIT jenkins"]
+#!/bin/sh
+[ "$(sh app.sh)" = "Hello from git jenkins" ]
